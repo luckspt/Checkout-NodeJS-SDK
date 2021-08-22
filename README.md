@@ -15,7 +15,7 @@ Please refer to the [PayPal Checkout Integration Guide](https://developer.paypal
 
 It is not mandatory to fork this repository for using the PayPal SDK. You can refer [PayPal Checkout Server SDK](https://developer.paypal.com/docs/checkout/reference/server-integration) for configuring and working with SDK without forking this code.
 
-For contirbuting or referrring the samples, You can fork/refer this repository. 
+For contributing or referring the samples, you can fork/refer this repository. 
 
 ## Examples
 ### Creating an Order
